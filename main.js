@@ -1,5 +1,5 @@
-let urlfo = `https://viragbolt-backend.onrender.com/api/flowers`
-let url = `https://viragbolt-backend.onrender.com/api/categories`
+let urlfo = `https://raw.githubusercontent.com/mkatay/projects_json/refs/heads/main/flowers`
+let url = `https://raw.githubusercontent.com/mkatay/projects_json/refs/heads/main/flowers_categories`
 let fodata = ""
 getData(url, renderData)
 getData(urlfo, renderData2)
